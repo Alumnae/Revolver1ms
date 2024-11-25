@@ -1,6 +1,6 @@
-# Revolver
+# Revolver1ms
 
-Download: [Releases](https://github.com/iebb/Revolver/releases)
+Download: [Releases](https://github.com/iebb/Revolver1ms/releases)
 
 Periodically switch your active eSIM profiles.
 

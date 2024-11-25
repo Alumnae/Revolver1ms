@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "ee.nekoko.revolver"
+    namespace = "ee.nekoko.Revolver1ms"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "ee.nekoko.revolver"
+        applicationId = "ee.nekoko.Revolver1ms"
         minSdk = 28
         targetSdk = 35
         versionCode = file("../version.txt").readText().trim().toInt()
