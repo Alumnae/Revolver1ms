@@ -1,4 +1,4 @@
-package ee.nekoko.revolver
+package ee.nekoko.Revolver1ms
 
 import android.content.Context
 import android.se.omapi.Channel
