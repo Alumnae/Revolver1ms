@@ -1,4 +1,4 @@
-package ee.nekoko.Revolver1ms
+package ee.nekoko.revolver1ms
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("ee.nekoko.Revolver1ms", appContext.packageName)
+        assertEquals("ee.nekoko.revolver1ms", appContext.packageName)
     }
 }
